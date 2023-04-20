@@ -1,4 +1,5 @@
-![logo](https://github.com/Harshu34/Harshu34/blob/main/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner.png)
+https://user-images.githubusercontent.com/91656383/233418064-a3496028-a5e4-41b6-9e60-aaf5ff83c767.mp4
+
 <h1 align="center">Hi 👋, I'm Harsh and Welcome to my Profile!</h1>
 <h3 align="center">A passionate frontend Web Developer from India</h3>
 
