@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/91656383/233418064-a3496028-a5e4-41b6-9e60-aaf5ff83c767.mp4
+![Green Vibrant Professional Data Analyst LinkedIn Banner](https://user-images.githubusercontent.com/91656383/233420377-86a8a2c6-b402-4a18-9dd6-618761007766.gif)
+
 
 <h1 align="center">Hi 👋, I'm Harsh and Welcome to my Profile!</h1>
 <h3 align="center">A passionate frontend Web Developer from India</h3>
