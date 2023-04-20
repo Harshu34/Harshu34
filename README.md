@@ -1,4 +1,5 @@
-![Green Vibrant Professional Data Analyst LinkedIn Banner](https://user-images.githubusercontent.com/91656383/233420377-86a8a2c6-b402-4a18-9dd6-618761007766.gif)
+![Green Vibrant Professional Data Analyst LinkedIn Banner (1)](https://user-images.githubusercontent.com/91656383/233423371-0ab65b2a-ff04-4a9d-9235-eaa4a88c92ba.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Harsh and Welcome to my Profile!</h1>
