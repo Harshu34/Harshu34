@@ -3,25 +3,25 @@
 
 
 <h1 align="center">Hi 👋, I'm Harsh and Welcome to my Profile!</h1>
-<h3 align="center">A passionate frontend Web Developer from India</h3>
+<h3 align="center">A passionate MERN Stack and GenAI Solutions Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshu34&label=Profile%20views&color=0e75b6&style=flat" alt="harshu34" /> </p>
 
-- 🔭 I’m currently working on **Voice Based Transport Inquiry System**
+- 🔭 I’m currently working on **Hostecx Project**
 
-- 🌱 I’m currently learning **Modern javascript and React.js**
+- 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **utilizing my skills to further the mission of a company.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshu34/Portfolio-Website](https://github.com/Harshu34/Portfolio-Website)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/Harshu34/Portfolio-Website](https://github.com/Harshu34/Portfolio-Website) -->
 
-- 💬 Ask me about **Frontend Technologies and Problem Solving Skills**
+- 💬 Ask me about **Backend Technologies and Problem Solving Skills**
 
 - 📫 How to reach me **ajayharsh869@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EO8-UmCAdW3F3w3qvhlpwyyLNM9RGkz5/view?usp=share_link](https://drive.google.com/file/d/1EO8-UmCAdW3F3w3qvhlpwyyLNM9RGkz5/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EO8-UmCAdW3F3w3qvhlpwyyLNM9RGkz5/view?usp=share_link](https://drive.google.com/file/d/1KEJ6WstpsB8WOw6Lm_dn1i9IFxFz6u4M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
