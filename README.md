@@ -21,7 +21,7 @@
 
 - 📫 How to reach me 👉 **ajayharsh869@gmail.com**
 
-- 📄 Know about my experiences 👉 [Click Me](https://drive.google.com/file/d/1KEJ6WstpsB8WOw6Lm_dn1i9IFxFz6u4M/view?usp=sharing)
+- 📄 Know about my experiences 👉 **[Click Me](https://drive.google.com/file/d/1KEJ6WstpsB8WOw6Lm_dn1i9IFxFz6u4M/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
